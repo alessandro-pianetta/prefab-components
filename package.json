@@ -1,7 +1,7 @@
 {
   "name": "prefab-components",
   "version": "0.0.1",
-  "main": "src/index.js",
+  "main": "index.js",
   "author": "alessandro-pianetta",
   "license": "MIT",
   "scripts": {
